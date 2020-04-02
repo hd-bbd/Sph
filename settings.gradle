@@ -1,0 +1,2 @@
+rootProject.name='Sph'
+include ':app'
